@@ -1,10 +1,10 @@
 R scripts can be rendered\!
 ================
-Jenny Bryan
-April 1, 2014
+Marina Doucerain
+2020
 
 This is a test to render an R script. I’m writing some prose here. Ok
-enough blanla
+enough blala
 
 ``` r
 # Creating some data

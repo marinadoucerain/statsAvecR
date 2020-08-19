@@ -1,12 +1,12 @@
 #' ---
 #' title: "R scripts can be rendered!"
-#' author: "Jenny Bryan"
-#' date: "April 1, 2014"
+#' author: "Marina Doucerain"
+#' date: "2020"
 #' output: github_document
 #' ---
 
 #' This is a test to render an R script. I'm writing some prose here.
-#' Ok enough blanla
+#' Ok enough blala
 
 # Creating some data
 x <- rnorm(100)
