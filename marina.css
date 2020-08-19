@@ -1,0 +1,97 @@
+body {
+   font-family: "Lato";
+   line-height: 1em;
+   color: #333333;
+   margin-left: 1.2em;
+}
+
+h1 {
+    font-family: "Ashbury";
+    color: #023b72;
+    line-height: 1.25em;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Ashbury";
+    color: #006400;
+    margin-left: 0.5em;
+    line-height: 1.25em;
+
+}
+
+h3 {
+    font-family: "Ashbury";
+    margin-left: 0.6em;
+    font-size: 1.2em;
+    color: #023b72;
+}
+
+h4, figcaption, caption {
+   font-family: "Ashbury";
+}
+
+h5 {
+  font-family: "Ashbury";
+  color: #336699;
+  margin-left: 2.5em;
+  font-style: italic;
+  font-weight: normal;
+}
+
+p {
+    margin-left: 0.8em;
+}
+
+ul {
+    margin-left: 1.75em;	
+}
+
+code.r{
+  font-size: .85em;
+  font-family: "Latin Modern Mono";
+}
+
+code{
+  font-size: .85em;
+  font-family: "Latin Modern Mono";
+}
+
+IMG {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
+        
+table, table.rmdtable > tbody > tr > td {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border-style: solid;
+  border-width: medium 0 medium 0;
+  border-color: inherit;
+  background: #FFF;
+  font-family: "Glametrix";
+  font-weight: normal;
+}
+
+th{
+  border-width: medium 0 medium 0;
+  border-style: solid;
+}
+
+thead {
+  border-width: medium 0 medium 0;
+  border-style: solid;	
+}
+
+.two-column > *{
+   float: left;
+   width: 45%;
+   margin-left: .8em;
+}
+
+.two-column > ul {
+   padding-left: 1em;
+   width: 46%;
+}
