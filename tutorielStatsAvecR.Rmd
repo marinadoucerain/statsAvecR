@@ -2,7 +2,7 @@
 title: "Tutoriel Stats avec R"
 author: "Marina"
 date: "19/08/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
